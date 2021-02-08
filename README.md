@@ -7,4 +7,7 @@ This directory contains all scripts used for alignment, SNP calling, and hard fi
 This directory contains scripts for generating the input data to consider the coalescent models described by Costa & Wilkinson-Herbots (2017) to compare scenarios of divergence of D. persimilis and D. p. bogotana. See Costa & Wilkinson-Herbots (2017) for the R code containing the models themselves.
 
 #### "Scripts_DivergenceAndRelativeRates":
-This directory contains scripts for calculating Dxy and for performing Tajima's Relative Rate Test by tallying substitutions per lineage (relative to outgroup D. lowei) and calculating the chi-square test statistic as described in Tajima 1993.
+This directory contains scripts for:
+* calculating Dxy 
+* performing Tajima's Relative Rate Test by tallying substitutions per lineage (relative to outgroup D. lowei) and calculating the chi-square test statistic as described in Tajima 1993.
+* the .xml file used for StarBEAST2
