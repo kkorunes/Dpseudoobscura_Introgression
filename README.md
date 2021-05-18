@@ -4,6 +4,8 @@
 This repository is associated with the following publication:  
 Korunes, KL, CA Machado, MAF Noor. Inversions shape the divergence of _Drosophila pseudoobscura_ and _D. persimilis_ on multiple timescales. 2021. Evolution.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4770840.svg)](https://doi.org/10.5281/zenodo.4770840)
+
 Corresponding author: Katharine Korunes, kkorunes@gmail.com
 
 ## Raw sequence data
