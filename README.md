@@ -6,7 +6,7 @@ Korunes, KL, CA Machado, MAF Noor. Inversions shape the divergence of _Drosophil
 
 Corresponding author: Katharine Korunes, kkorunes@gmail.com
 
-## Underlying Date
+## Raw sequence data
 Note that all raw sequence data associated with these analyses have been uploaded to NCBI’s Short Read Archive, with sequence accession numbers in Supplementary Table 1 in the associated manucript. 
 
 ## The 3 directories here contain code for analyses performed in this study:
