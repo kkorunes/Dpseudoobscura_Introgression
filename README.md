@@ -9,5 +9,7 @@ This directory contains scripts for generating the input data to consider the co
 #### "Scripts_DivergenceAndRelativeRates":
 This directory contains:
 * scripts for calculating Dxy 
+* empirical Dxy estimates and introgression effect estimates (needed for Figures 3, 5, and S3 in the associated manuscript)
+* F statistics from Dsuite (Malinsky, Matschiner, & Svardal, 2020)
 * scripts for performing Tajima's Relative Rate Test by tallying substitutions per lineage (relative to outgroup D. lowei) and calculating the chi-square test statistic as described in Tajima 1993.
 * the .xml file used for StarBEAST2
